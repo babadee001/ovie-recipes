@@ -35,7 +35,7 @@ More-Recipes provides a platform for users to share the awesome and exciting  re
 Get the app running locally in the following way:
 ```
 # Clone the Repo
-git clone https://github.com/ipheghe/More-Recipes.git
+git clone https://github.com/babadee001/ovie-recipes
 
 # Install all dependencies
 npm install

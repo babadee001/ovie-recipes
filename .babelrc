@@ -1,0 +1,19 @@
+{
+  "presets": ["react", "es2015", "stage-0"],
+ "env": {
+   "development": {
+     "presets": ["react-hmre"]
+   },
+   "test": {
+     "plugins": [
+       "istanbul",
+       "transform-decorators-legacy"
+     ]
+   },
+   "jsdom": {
+     "plugins": [
+       "transform-decorators-legacy"
+     ]
+   }
+ }
+}

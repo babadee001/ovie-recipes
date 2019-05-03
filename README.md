@@ -69,7 +69,7 @@ Instructions to test the application:
 ## Contributing to the Project
 Contributions are welcome and appreciated. To contribute
 
--  Fork this repository [here](https://github.com/ipheghe/More-Recipes/)
+-  Fork this repository here
 -  Open a terminal and execute the following command to make a local copy
 `$ git clone https://github.com/ipheghe/More-Recipes.git`
 -  Run this code to navigate into the folder `cd more-recipes`
